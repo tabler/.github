@@ -2,7 +2,7 @@
 <a href="https://tabler.io">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tabler/tabler/dev/shared/static/logo-white.svg">
-<img src="https://raw.githubusercontent.com/tabler/tabler/dev/shared/static/logo.svg" alt="Tabler" width="300">
+<img src="https://raw.githubusercontent.com/tabler/tabler/dev/shared/static/logo.svg" alt="Tabler" width="200">
 </picture>
 </a>
 </p>
